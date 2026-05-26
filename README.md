@@ -2,6 +2,9 @@
 
 A simple Snake Game built using HTML, CSS, and JavaScript.
 
+## Live Demo
+🔗 [Play the Game](https://akashrwebdev.github.io/snakeGame/)
+
 ## Features
 
 * Snake movement with keyboard controls
